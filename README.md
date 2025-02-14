@@ -20,7 +20,7 @@ To run this app locally, follow these steps:
 
 
 ### 1 - Clone the repository:
-git clone https://github.com/yourusername/calculator-app.git  
+git clone https://github.com/Berrah-sidahmed/calculator-app.git  
 cd tic-tac-toe
 
 ### 2 -  Install dependencies:
